@@ -1,9 +1,83 @@
-# YYMMDD-MuleclassReference
-Baseline shared information document for students in Mulesoft classes
+OPS325 - Cloudhub 2.0 Classroom Reference - 260923 - PDT
 
-- Clone this repo
-- Run the bin/init.sh script
-- Confirm that your template README has been copied over the main
-- Remove the template patterns
-- Isolate your new local repo and use it to stand up a new class specific repo
+Vincent Lowe
+vlowe@salesforce.com
+
+-------------------------------------------------------------------------------------------------------------------
+Trailhead Academy:	https://trailheadacademy.salesforce.com/my-learning
+
+-------------------------------------------------------------------------------------------------------------------
+Survey Link:	https://www.research.net/r/trailheadacademy
+
+Survey ID:		
+
+-------------------------------------------------------------------------------------------------------------------
+
+Class System Setup (pre-class): 
+https://trailhead.salesforce.com/help?article=Computer-Setup-Guide-for-MuleSoft-Expert-Led-Classes#OPS325
+
+JMeter: 
+https://jmeter.apache.org/download_jmeter.cgi 
+#test by typing jmeter and you will see an application
+
+OpenSSL: 
+https://www.openssl.org/source/ 
+
+Anypoint CLI v4: 
+https://docs.mulesoft.com/anypoint-cli/4.x/install 
+
+anypoint-cli installation:
+
+#test by typing anypoint-cli-v4 and you will see instructions)
+
+Advanced REST Client:
+https://github.com/advanced-rest-client/arc-electron/releases/tag/v17.0.9
+
+Postman:
+https://www.postman.com/downloads/
+
+Help:
+https://help.mulesoft.com/
+
+Docs:
+https://docs.mulesoft.com
+
+Log Analyzer Tool:
+https://help.mulesoft.com/s/article/Support-Log-file-analyzer-tool
+
+Status:
+https://status.mulesoft.com 
+   
+------------------------------------------------------------------------------
+Java VM: https://docs.mulesoft.com/general/java-support
+
+MuleSoft Pricing & Support: https://www.mulesoft.com/anypoint-pricing
+
+Einstein for Anypoint Code Builder: https://videos.mulesoft.com/watch/Z3Xzk8RFds5erbzLASev1W
+
+Log Analyzer: https://help.salesforce.com/s/articleView?language=en_US&id=Support-Log-file-analyzer-tool&type=1
+
+------------------------------------------------------------------------------
+https://anypoint.mulesoft.com
+
+https://anypoint.mulesoft.com/exchange/?view=grid&type=app
+
+|Track Title|Artist|Notes|
+|-----------|------|-----|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
