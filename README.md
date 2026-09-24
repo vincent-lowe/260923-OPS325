@@ -7,6 +7,11 @@ vlowe@salesforce.com
 Trailhead Academy:	https://trailheadacademy.salesforce.com/my-learning
 
 -------------------------------------------------------------------------------------------------------------------
+
+Cloudshare link: https://use.cloudshare.com/Class/9wn0i
+Passphrase: Albert the Reluctant Wombat
+
+
 Survey Link:	https://www.research.net/r/trailheadacademy
 
 Survey ID:		
@@ -69,6 +74,7 @@ https://anypoint.mulesoft.com/exchange/?view=grid&type=app
 |My Rifle, My Pony and Me|Ricky Nelson & Dean Martin|from the movie Rio Bravo|
 |Have You Ever Seen the Rain|Willie Nelson feat. Paula Nelson||
 |We Don't Talk About Bruno|Voiceplay||
+|Dos Oruguitas|Steven Joseph|from the movie Encanto|
 
 
 
