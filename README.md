@@ -75,7 +75,8 @@ https://anypoint.mulesoft.com/exchange/?view=grid&type=app
 |Have You Ever Seen the Rain|Willie Nelson feat. Paula Nelson||
 |We Don't Talk About Bruno|Voiceplay||
 |Dos Oruguitas|Steven Joseph|from the movie Encanto|
-
+|I Was Doing All Right|Louis Armstrong and Oscar Peterson||
+|Just Dropped In (To See What Condition My Condition Was In|Willie Nelson||
 
 
 
